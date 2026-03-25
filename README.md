@@ -11,7 +11,7 @@ The app predicts a student's performance based on:
 
   Project Files
 
-- `app.py` — main web application (Streamlit interface)
+- `app_01.py` — main web application (Streamlit interface)
 - `train.py` — script to train the machine learning model
 - `test.py` — script to test the model and display graphs
 - `Student_Performance.csv` — dataset
