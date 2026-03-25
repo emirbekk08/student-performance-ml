@@ -27,7 +27,7 @@ The app predicts a student's performance based on:
 - git clone https://github.com/emirbekk08/student-performance-ml
 - cd student-performance-ml
 - pip install -r requirements.txt
-- streamlit run app.py
+- streamlit run app_01.py
 
 ### 2.Train the model
 python train.py
