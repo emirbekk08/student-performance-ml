@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction
+#  Student Performance Prediction
 
 This is a simple machine learning web application built with Streamlit.
 
@@ -10,7 +10,7 @@ The app predicts a student's performance based on:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - `app.py` — main web application (Streamlit interface)
 - `train.py` — script to train the machine learning model
@@ -20,7 +20,7 @@ The app predicts a student's performance based on:
 
 ---
 
-## 🚀 How to run
+##  How to run
 
 ### 1. Clone the project
 
