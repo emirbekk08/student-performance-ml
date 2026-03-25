@@ -1,4 +1,4 @@
-#  Student Performance Prediction
+# Student Performance Prediction
 
 This is a simple machine learning web application built with Streamlit.
 
@@ -8,7 +8,6 @@ The app predicts a student's performance based on:
 - sleep hours
 - extracurricular activities
 
----
 
 ##  Project Files
 
@@ -17,8 +16,6 @@ The app predicts a student's performance based on:
 - `test.py` — script to test the model and display graphs
 - `Student_Performance.csv` — dataset
 - `requirements.txt` — required libraries
-
----
 
 ##  How to run
 
