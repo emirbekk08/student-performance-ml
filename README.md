@@ -1,9 +1,28 @@
-# Student Performance Prediction
+# 🎓 Student Performance Prediction
 
-This project is a machine learning web application built with Streamlit. It predicts student performance based on study-related factors.
+This is a simple machine learning web application built with Streamlit.
 
-The model uses Linear Regression from scikit-learn. Users can input data such as study hours, previous scores, sleep hours, and extracurricular activities to get a predicted performance result.
+The app predicts a student's performance based on:
+- study hours
+- previous scores
+- sleep hours
+- extracurricular activities
 
-To run the project:
-1. Install dependencies: pip install -r requirements.txt
-2. Run the app: streamlit run app.py
+## 🚀 How to run
+
+1. Download or clone the project:
+git clon https://github.com/emirbekk08/student-performance-ml.
+cd student-performance-ml
+
+2. Install required libraries:
+pip install -r requirements.txt
+
+3. Run the app:
+streamlit run app.py
+
+
+After that, the website will open in your browser.
+
+
+The project uses Linear Regression from scikit-learn.  
+The model is trained on a dataset and then used to make predictions based on user input.
