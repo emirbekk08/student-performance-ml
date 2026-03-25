@@ -1,4 +1,4 @@
- Student Performance Prediction
+  STUDENT PERFOMANCE PREDICTION
 
 This is a simple machine learning web application built with Streamlit.
 
@@ -26,8 +26,8 @@ The app predicts a student's performance based on:
 - pip install -r requirements.txt
 - streamlit run app_01.py
 
-### 2.Train the model
+.Train the model
 python train.py
 
-### 3.Run test / show graph
+.Run test / show graph
 python test.py
