@@ -1,4 +1,4 @@
-# Student Performance Prediction
+ Student Performance Prediction
 
 This is a simple machine learning web application built with Streamlit.
 
@@ -9,7 +9,7 @@ The app predicts a student's performance based on:
 - extracurricular activities
 
 
-##  Project Files
+  Project Files
 
 - `app.py` — main web application (Streamlit interface)
 - `train.py` — script to train the machine learning model
@@ -17,9 +17,9 @@ The app predicts a student's performance based on:
 - `Student_Performance.csv` — dataset
 - `requirements.txt` — required libraries
 
-##  How to run
+ How to run
 
-### 1. Clone the project
+ 1. Clone the project
 
 - git clone https://github.com/emirbekk08/student-performance-ml
 - cd student-performance-ml
